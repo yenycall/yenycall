@@ -1,10 +1,10 @@
-## 심민지 (Shim Min Ji) | Yenycall
+### 심민지 SMJ | Yenycall
 
 Front-End Developer 🔗 Designer
 
 ---
 
-## Profile <span class="blue-small">프로필</span>
+[#YENYCALL | SMJ.PORTFOLIO](https://yenycall.github.io/smj.portfolio)
 
 ---
 
