@@ -1,6 +1,6 @@
 ## 심민지 SMJ | Yenycall
 
-Front-End Developer 🔗 Designer (color: #ff3a3a;)
+Front-End Developer 🔗 Designer
 
 
 📍 [#YENYCALL | SMJ.PORTFOLIO](https://yenycall.github.io/smj.portfolio/)
