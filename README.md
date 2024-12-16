@@ -1,12 +1,6 @@
-<style>
-  .font {
-    color: #ff3a3a;
-  }
-</style>
-
 ## 심민지 SMJ | Yenycall
 
-<p class="font">Front-End Developer 🔗 Designer</p>
+Front-End Developer 🔗 Designer (color: #ff3a3a;)
 
 
 📍 [#YENYCALL | SMJ.PORTFOLIO](https://yenycall.github.io/smj.portfolio/)
