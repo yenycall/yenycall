@@ -19,6 +19,5 @@ Front-End Developer 🔗 Designer
 ### Contact
 
 - Email &nbsp;&nbsp;[yenycall817@gmail.com](mailto:yenycall817@gmail.com)
-- Mobile  &nbsp;&nbsp;[📞***](tel:01098445433)
 - Instagram &nbsp;&nbsp;[@yenycall](https://instagram.com/yenycall)
 - GitHub &nbsp;&nbsp;[https://github.com/yenycall](https://github.com/yenycall)
