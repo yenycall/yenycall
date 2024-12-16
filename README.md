@@ -1,12 +1,3 @@
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
-
-> SMJ Portfolio <br> <span class="small">심민지 포트폴리오 이력서</span>
-{: .prompt-info }
-
 <style>
 
     .content-box{
