@@ -3,7 +3,7 @@
 Front-End Developer 🔗 Designer
 
 
-📍 [#YENYCALL | SMJ.PORTFOLIO](https://yenycall.github.io/smj.portfolio)
+📍 [#YENYCALL | SMJ.PORTFOLIO](https://yenycall.github.io/smj.portfolio/)
 
 
 ---
