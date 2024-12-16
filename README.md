@@ -21,3 +21,5 @@ Front-End Developer 🔗 Designer
 - Email &nbsp;&nbsp;[yenycall817@gmail.com](mailto:yenycall817@gmail.com)
 - Instagram &nbsp;&nbsp;[@yenycall](https://instagram.com/yenycall)
 - GitHub &nbsp;&nbsp;[https://github.com/yenycall](https://github.com/yenycall)
+
+<img width="1792" alt="스크린샷 2024-12-16 오후 3 42 06" src="https://github.com/user-attachments/assets/488df683-c98d-42fb-9899-62109087b72a" />
